@@ -1,4 +1,4 @@
-from random import *
+from random import *     куку
 from pygame import *
 from time import time as timer
 
